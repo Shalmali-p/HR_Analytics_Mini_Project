@@ -5,8 +5,7 @@
 This mini-project involves analyzing HR data to identify factors that influence employee attrition. The analysis is performed using Python, with a focus on data cleaning, exploration, and visualization. The dataset is sourced from Kaggle and includes various attributes related to employee demographics, job satisfaction, and other factors.
 
 ## Dataset
-
-- **Source**: [Kaggle HR Analytics Dataset](https://www.kaggle.com/datasets)
+- **Source**: [Kaggle HR Analytics Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Description**: The dataset contains information on employees, including attributes such as working hours, business travel, employee count, gender, department, age group, salary, and job satisfaction.
 
 ## Project Structure
